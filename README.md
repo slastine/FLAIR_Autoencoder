@@ -1,6 +1,6 @@
 # Autoencoder-Based MRI Anomaly Detection
 
-An **inpainting autoencoder** for unsupervised brain MRI anomaly detection, designed for FLAIR images with tumor segmentations. Trained on BrainMetShare-3.
+An inpainting autoencoder for unsupervised brain MRI anomaly detection, designed for FLAIR images with tumor segmentations. Trained on BrainMetShare-3. Compares pixel-perfect, latent, and fusion methods.
 
 ### Requirements
 ```bash
