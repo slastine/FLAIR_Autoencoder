@@ -62,6 +62,8 @@ Each map can be viewed in any NIfTI viewer (e.g., FSLeyes, ITK-SNAP).
 | latent | Dice/Jaccard | Based on encoder difference |
 | fusion | Dice/Jaccard | Weighted combination of both |
 
+![brain figure](Brain_Figure.png)
+
 ---
 
 ## Command-line Arguments
